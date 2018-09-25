@@ -55,7 +55,7 @@
 		01D387911D229BFC00CE4E1F /* CarouselCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarouselCollectionViewCell.swift; sourceTree = "<group>"; };
 		01D387921D229BFC00CE4E1F /* Character.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
 		01D387931D229BFC00CE4E1F /* GradientView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
-		01D387941D229BFC00CE4E1F /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		01D387941D229BFC00CE4E1F /* Info_demo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info_demo.plist; sourceTree = "<group>"; };
 		01D387961D229BFC00CE4E1F /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		01D387A21D229E4A00CE4E1F /* UPCarouselFlowLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UPCarouselFlowLayout.swift; sourceTree = "<group>"; };
 		841C94F01DDEE4E300B997F5 /* UPCarouselFlowLayout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UPCarouselFlowLayout.h; sourceTree = "<group>"; };
@@ -115,7 +115,7 @@
 				01D3878C1D229BFC00CE4E1F /* Assets.xcassets */,
 				01D3878D1D229BFC00CE4E1F /* LaunchScreen.storyboard */,
 				01D3878F1D229BFC00CE4E1F /* Main.storyboard */,
-				01D387941D229BFC00CE4E1F /* Info.plist */,
+				01D387941D229BFC00CE4E1F /* Info_demo.plist */,
 			);
 			path = UPCarouselFlowLayoutDemo;
 			sourceTree = "<group>";
@@ -502,6 +502,7 @@
 				841C95081DDEE57F00B997F5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
